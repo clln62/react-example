@@ -1,3 +1,5 @@
+//TEST EXAMPLE
+
 import React from 'react';
 import SearchBar from '../inner-components/search/SearchBar.jsx';
 import NewsFeed from '../inner-components/newsfeed/NewsFeed.jsx';

@@ -1,3 +1,5 @@
+//TEST EXAMPLE
+
 import React from 'react';
 import Welcome from './welcome/Welcome.jsx';
 import User from './user/User.jsx';
